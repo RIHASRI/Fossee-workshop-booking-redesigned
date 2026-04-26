@@ -183,7 +183,7 @@ Follow these steps to run the project locally:
 
 ```bash
 git clone https://github.com/RIHASRI/workshop-booking-redesigned.git
-cd workshop-booking-redesign
+cd workshop-booking-redesigned
 ```
 
 ### 2. Install dependencies
