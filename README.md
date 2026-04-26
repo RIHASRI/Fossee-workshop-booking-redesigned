@@ -22,8 +22,7 @@ This project is a **complete UI/UX redesign** of that platform, built on top of 
 
 ## 🚀 Live Demo
 
-> 🔗 **[View Live Demo →](#)** *(Replace this with your deployed URL — Vercel, Netlify, or GitHub Pages)*
-
+> 🔗 **[View Live Demo - https://drive.google.com/file/d/11Jx0L-ZrVaY9XkNqKoxUfWoZSrSxHlNP/view?usp=sharing
 ---
 
 ## 🛠️ Tech Stack
@@ -138,25 +137,7 @@ Accessibility wasn't an afterthought — it was baked in from the start.
 
 ---
 
-## 📸 Visual Showcase
 
-### Before — Original Interface
-> *(Screenshot of the original FOSSEE workshop booking website)*
-
-![Before Screenshot](./assets/screenshots/before.png)
-
----
-
-### After — Redesigned Interface
-> *(Screenshot of the redesigned UI)*
-
-![After Screenshot](./assets/screenshots/after.png)
-
----
-
-> 📁 Place your screenshots in the `assets/screenshots/` folder and update the paths above accordingly.
-
----
 
 ## 📂 Folder Structure
 
@@ -201,7 +182,7 @@ Follow these steps to run the project locally:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/workshop-booking-redesign.git
+git clone https://github.com/RIHASRI/workshop-booking-redesigned.git
 cd workshop-booking-redesign
 ```
 
@@ -219,7 +200,6 @@ npm install
 npm run dev
 ```
 
-The app will be available at **`http://localhost:5173`** (Vite default).
 
 ### 4. Build for production
 
@@ -235,15 +215,6 @@ npm run preview
 
 ---
 
-## 📬 Submission Details
-
-This project was created as part of the **FOSSEE Python Screening Task** — specifically the UI/UX redesign challenge for the Workshop Booking platform.
-
-- **Base Repository**: [https://github.com/FOSSEE/workshop_booking](https://github.com/FOSSEE/workshop_booking)
-- **Submitted to**: [pythonsupport@fossee.in](mailto:pythonsupport@fossee.in)
-- **Task**: Frontend UI/UX Enhancement
-
----
 
 ## 🌟 Future Improvements
 
