@@ -1,10 +1,10 @@
-# 🎨 UI/UX Enhancement of Workshop Booking Website
+#  UI/UX Enhancement of Workshop Booking Website
 
 > A thoughtful redesign of [FOSSEE's Workshop Booking Platform](https://github.com/FOSSEE/workshop_booking) — rebuilt with modern React, a mobile-first mindset, and a genuine obsession with usability.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The original FOSSEE workshop booking website is a fully functional platform — but its interface felt like it had been left behind. Navigation was clunky, the layout broke on smaller screens, and the visual hierarchy made it hard to know where to look first.
 
@@ -20,12 +20,12 @@ This project is a **complete UI/UX redesign** of that platform, built on top of 
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
 > 🔗 **[View Live Demo - https://drive.google.com/file/d/11Jx0L-ZrVaY9XkNqKoxUfWoZSrSxHlNP/view?usp=sharing
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -39,18 +39,18 @@ This project is a **complete UI/UX redesign** of that platform, built on top of 
 
 ---
 
-## 🎯 Objectives Achieved
+## Objectives Achieved
 
 ### ✅ UI Modernization
 Replaced dated markup with a structured component system. Introduced a consistent color palette, type scale, and spacing rhythm that makes the interface feel intentional rather than assembled piece by piece.
 
-### ✅ Mobile Responsiveness
+###  Mobile Responsiveness
 Adopted a mobile-first approach from day one. Every layout decision started at 320px and expanded outward — not the other way around. Navigation collapses into a clean hamburger menu on small screens, and cards reflow gracefully across breakpoints.
 
-### ✅ Accessibility Improvements
+### Accessibility Improvements
 Audited the entire UI against WCAG 2.1 AA standards. Added semantic landmarks (`<main>`, `<nav>`, `<section>`), ARIA roles where HTML alone wasn't enough, and made sure every interactive element is reachable via keyboard.
 
-### ✅ Performance Optimization
+### Performance Optimization
 Introduced React lazy loading for route-level code splitting. Optimized all static assets and removed unused CSS. Result: significantly reduced initial bundle size and faster Time to Interactive (TTI).
 
 ### ✅ Better Navigation & User Flow
@@ -58,7 +58,7 @@ Redesigned the navigation to reflect how users actually think — workshop disco
 
 ---
 
-## 🧠 Design Decisions & Reasoning
+##  Design Decisions & Reasoning
 
 ### What design principles guided the improvements?
 
@@ -80,7 +80,7 @@ Refactoring the booking flow without breaking the existing backend integration w
 
 ---
 
-## 📱 Responsive Design
+## Responsive Design
 
 This redesign follows a **mobile-first methodology** — base styles target small screens, and layout complexity is layered in via media queries as viewport width increases.
 
@@ -123,7 +123,7 @@ This redesign follows a **mobile-first methodology** — base styles target smal
 
 ---
 
-## ♿ Accessibility Improvements
+##  Accessibility Improvements
 
 Accessibility wasn't an afterthought — it was baked in from the start.
 
@@ -175,7 +175,7 @@ workshop-booking-redesign/
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 Follow these steps to run the project locally:
 
@@ -216,7 +216,7 @@ npm run preview
 ---
 
 
-## 🌟 Future Improvements
+##  Future Improvements
 
 Given more time, here's what I'd tackle next:
 
