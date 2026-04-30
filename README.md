@@ -41,7 +41,7 @@ This project is a **complete UI/UX redesign** of that platform, built on top of 
 
 ## Objectives Achieved
 
-### ✅ UI Modernization
+###  UI Modernization
 Replaced dated markup with a structured component system. Introduced a consistent color palette, type scale, and spacing rhythm that makes the interface feel intentional rather than assembled piece by piece.
 
 ###  Mobile Responsiveness
@@ -53,7 +53,7 @@ Audited the entire UI against WCAG 2.1 AA standards. Added semantic landmarks (`
 ### Performance Optimization
 Introduced React lazy loading for route-level code splitting. Optimized all static assets and removed unused CSS. Result: significantly reduced initial bundle size and faster Time to Interactive (TTI).
 
-### ✅ Better Navigation & User Flow
+###  Better Navigation & User Flow
 Redesigned the navigation to reflect how users actually think — workshop discovery first, then details, then booking. Added breadcrumbs, clear back-navigation, and progress indicators on multi-step flows so users always know where they are.
 
 ---
@@ -110,7 +110,7 @@ This redesign follows a **mobile-first methodology** — base styles target smal
 
 ---
 
-## ⚡ Performance Optimizations
+##  Performance Optimizations
 
 | Technique | Implementation |
 |---|---|
